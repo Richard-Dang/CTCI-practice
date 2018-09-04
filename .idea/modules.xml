@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArraysAndStrings/ArraysAndStrings.iml" filepath="$PROJECT_DIR$/ArraysAndStrings/ArraysAndStrings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BitManipulation/BitManipulation.iml" filepath="$PROJECT_DIR$/BitManipulation/BitManipulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CTCI-practice.iml" filepath="$PROJECT_DIR$/CTCI-practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedLists/LinkedLists.iml" filepath="$PROJECT_DIR$/LinkedLists/LinkedLists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MathAndLogicPuzzles/MathAndLogicPuzzles.iml" filepath="$PROJECT_DIR$/MathAndLogicPuzzles/MathAndLogicPuzzles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ObjectOrientedDesign/ObjectOrientedDesign.iml" filepath="$PROJECT_DIR$/ObjectOrientedDesign/ObjectOrientedDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecursionAndDynamicProgramming/RecursionAndDynamicProgramming.iml" filepath="$PROJECT_DIR$/RecursionAndDynamicProgramming/RecursionAndDynamicProgramming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SortingAndSearching/SortingAndSearching.iml" filepath="$PROJECT_DIR$/SortingAndSearching/SortingAndSearching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StacksAndQueues/StacksAndQueues.iml" filepath="$PROJECT_DIR$/StacksAndQueues/StacksAndQueues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SystemDesignAndScalability/SystemDesignAndScalability.iml" filepath="$PROJECT_DIR$/SystemDesignAndScalability/SystemDesignAndScalability.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TreesAndGraphs/TreesAndGraphs.iml" filepath="$PROJECT_DIR$/TreesAndGraphs/TreesAndGraphs.iml" />
+    </modules>
+  </component>
+</project>
