@@ -6,6 +6,7 @@ public class CheckPermutation {
      * @param a first string
      * @param b second string
      * @return whether both strings are permutations of each other
+     * @runtime O(nlongn)
      */
     public boolean isPermutation(String a, String b){
         if(a.length() != b.length()){
@@ -23,6 +24,7 @@ public class CheckPermutation {
      * @param a first string
      * @param b second string
      * @return whether both strings are permutations of each other
+     * @runtime O(n)
      */
     public boolean isPermutation2(String a, String b){
         int[] charArr = new int[128];

@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbb00938-fa14-481c-8978-c39ab04de060" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/ArraysAndStrings/src/CheckPermutation.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ArraysAndStrings/tests/CheckPermutationTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ArraysAndStrings/src/OneAway.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ArraysAndStrings/src/PalindromePermutation.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ArraysAndStrings/src/URLify.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ArraysAndStrings/tests/OneAwayTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ArraysAndStrings/tests/PalindromePermutationTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ArraysAndStrings/tests/URLifyTest.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/ArraysAndStrings/IsUnique.class" afterPath="$PROJECT_DIR$/out/production/ArraysAndStrings/IsUnique.class" />
-      <change beforePath="$PROJECT_DIR$/out/test/ArraysAndStrings/IsUniqueTest.class" afterPath="$PROJECT_DIR$/out/test/ArraysAndStrings/IsUniqueTest.class" />
+      <change beforePath="$PROJECT_DIR$/ArraysAndStrings/src/CheckPermutation.java" afterPath="$PROJECT_DIR$/ArraysAndStrings/src/CheckPermutation.java" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArraysAndStrings/CheckPermutation.class" afterPath="$PROJECT_DIR$/out/production/ArraysAndStrings/CheckPermutation.class" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,45 +22,51 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="IsUniqueTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ArraysAndStrings/tests/IsUniqueTest.java">
+      <file leaf-file-name="PalindromePermutation.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ArraysAndStrings/src/PalindromePermutation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="18" column="15" lean-forward="false" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IsUnique.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ArraysAndStrings/src/IsUnique.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="508">
-              <caret line="32" column="21" lean-forward="false" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CheckPermutation.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ArraysAndStrings/src/CheckPermutation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="127">
-              <caret line="32" column="9" lean-forward="false" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+            <state relative-caret-position="137">
+              <caret line="10" column="40" lean-forward="false" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CheckPermutationTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ArraysAndStrings/tests/CheckPermutationTest.java">
+      <file leaf-file-name="OneAway.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ArraysAndStrings/src/OneAway.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state relative-caret-position="396">
+              <caret line="22" column="25" lean-forward="false" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OneAwayTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ArraysAndStrings/tests/OneAwayTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="17" column="50" lean-forward="false" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="String.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/lang/String.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="2237" column="18" lean-forward="false" selection-start-line="2237" selection-start-column="18" selection-end-line="2237" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PalindromePermutationTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ArraysAndStrings/tests/PalindromePermutationTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -87,10 +97,16 @@
         <option value="$PROJECT_DIR$/ArraysAndStrings/src/IsUniqueTest.java" />
         <option value="$PROJECT_DIR$/ArraysAndStrings/tests/IsUniqueTest2.java" />
         <option value="$PROJECT_DIR$/ArraysAndStrings/tests/IsUniqueTest.java" />
-        <option value="$PROJECT_DIR$/ArraysAndStrings/src/IsUnique.java" />
         <option value="$PROJECT_DIR$/ArraysAndStrings/src/IsUnique_1_1.java" />
         <option value="$PROJECT_DIR$/ArraysAndStrings/tests/CheckPermutationTest.java" />
+        <option value="$PROJECT_DIR$/ArraysAndStrings/tests/URLifyTest.java" />
+        <option value="$PROJECT_DIR$/ArraysAndStrings/src/URLify.java" />
         <option value="$PROJECT_DIR$/ArraysAndStrings/src/CheckPermutation.java" />
+        <option value="$PROJECT_DIR$/ArraysAndStrings/src/IsUnique.java" />
+        <option value="$PROJECT_DIR$/ArraysAndStrings/tests/PalindromePermutationTest.java" />
+        <option value="$PROJECT_DIR$/ArraysAndStrings/src/PalindromePermutation.java" />
+        <option value="$PROJECT_DIR$/ArraysAndStrings/src/OneAway.java" />
+        <option value="$PROJECT_DIR$/ArraysAndStrings/tests/OneAwayTest.java" />
       </list>
     </option>
   </component>
@@ -192,27 +208,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.CheckPermutationTest">
+  <component name="RunManager" selected="JUnit.OneAwayTest.isOneAway">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
-    </configuration>
-    <configuration name="IsUnique" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="IsUnique" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="ArraysAndStrings" />
-      <envs />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -227,26 +229,6 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
       <envs />
-    </configuration>
-    <configuration name="All in ArraysAndStrings" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="ArraysAndStrings" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="package" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
     </configuration>
     <configuration name="CheckPermutationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -268,14 +250,14 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="CheckPermutationTest.isPermuatation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CheckPermutationTest.isPermutation2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="ArraysAndStrings" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="CheckPermutationTest" />
-      <option name="METHOD_NAME" value="isPermuatation" />
+      <option name="METHOD_NAME" value="isPermutation2" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -288,15 +270,55 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="CheckPermutationTest.isPermutation2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="OneAwayTest.isOneAway" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="ArraysAndStrings" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CheckPermutationTest" />
-      <option name="METHOD_NAME" value="isPermutation2" />
+      <option name="MAIN_CLASS_NAME" value="OneAwayTest" />
+      <option name="METHOD_NAME" value="isOneAway" />
       <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="PalindromePermutationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="ArraysAndStrings" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PalindromePermutationTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="URLifyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="ArraysAndStrings" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="URLifyTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -369,19 +391,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.IsUnique" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.All in ArraysAndStrings" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.CheckPermutationTest" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.CheckPermutationTest.isPermuatation" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.CheckPermutationTest.isPermutation2" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.CheckPermutationTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.CheckPermutationTest.isPermutation2" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.URLifyTest" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.PalindromePermutationTest" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.OneAwayTest.isOneAway" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.CheckPermutationTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.CheckPermutationTest.isPermutation2" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.CheckPermutationTest.isPermuatation" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.All in ArraysAndStrings" />
-        <item index="4" class="java.lang.String" itemvalue="Application.IsUnique" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.OneAwayTest.isOneAway" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.PalindromePermutationTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.URLifyTest" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.CheckPermutationTest" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.CheckPermutationTest.isPermutation2" />
       </list>
     </recent_temporary>
   </component>
@@ -404,39 +426,39 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="All_in_ArraysAndStrings - 2018.09.03 at 22h 16m 23s.xml">
-      <configuration name="All in ArraysAndStrings" configurationId="JUnit" />
+    <history-entry file="OneAwayTest_isOneAway - 2018.09.04 at 23h 04m 51s.xml">
+      <configuration name="OneAwayTest.isOneAway" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_ArraysAndStrings - 2018.09.03 at 22h 34m 50s.xml">
-      <configuration name="All in ArraysAndStrings" configurationId="JUnit" />
+    <history-entry file="OneAwayTest_isOneAway - 2018.09.04 at 23h 11m 47s.xml">
+      <configuration name="OneAwayTest.isOneAway" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_ArraysAndStrings - 2018.09.03 at 22h 35m 19s.xml">
-      <configuration name="All in ArraysAndStrings" configurationId="JUnit" />
+    <history-entry file="OneAwayTest_isOneAway - 2018.09.04 at 23h 12m 28s.xml">
+      <configuration name="OneAwayTest.isOneAway" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CheckPermutationTest - 2018.09.03 at 23h 09m 34s.xml">
-      <configuration name="CheckPermutationTest" configurationId="JUnit" />
+    <history-entry file="PalindromePermutationTest - 2018.09.04 at 21h 55m 20s.xml">
+      <configuration name="PalindromePermutationTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CheckPermutationTest - 2018.09.03 at 23h 34m 06s.xml">
-      <configuration name="CheckPermutationTest" configurationId="JUnit" />
+    <history-entry file="PalindromePermutationTest - 2018.09.04 at 21h 56m 15s.xml">
+      <configuration name="PalindromePermutationTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CheckPermutationTest - 2018.09.03 at 23h 34m 52s.xml">
-      <configuration name="CheckPermutationTest" configurationId="JUnit" />
+    <history-entry file="PalindromePermutationTest - 2018.09.04 at 21h 57m 26s.xml">
+      <configuration name="PalindromePermutationTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CheckPermutationTest_isPermuatation - 2018.09.03 at 23h 11m 04s.xml">
-      <configuration name="CheckPermutationTest.isPermuatation" configurationId="JUnit" />
+    <history-entry file="PalindromePermutationTest - 2018.09.04 at 21h 57m 30s.xml">
+      <configuration name="PalindromePermutationTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CheckPermutationTest_isPermutation2 - 2018.09.03 at 23h 11m 08s.xml">
-      <configuration name="CheckPermutationTest.isPermutation2" configurationId="JUnit" />
+    <history-entry file="PalindromePermutationTest - 2018.09.04 at 22h 04m 05s.xml">
+      <configuration name="PalindromePermutationTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CheckPermutationTest_isPermutation2 - 2018.09.03 at 23h 12m 08s.xml">
-      <configuration name="CheckPermutationTest.isPermutation2" configurationId="JUnit" />
+    <history-entry file="PalindromePermutationTest - 2018.09.04 at 22h 09m 55s.xml">
+      <configuration name="PalindromePermutationTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CheckPermutationTest_isPermutation2 - 2018.09.03 at 23h 12m 49s.xml">
-      <configuration name="CheckPermutationTest.isPermutation2" configurationId="JUnit" />
+    <history-entry file="URLifyTest - 2018.09.04 at 21h 24m 41s.xml">
+      <configuration name="URLifyTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5950000" />
+    <option name="totallyTimeSpent" value="10494000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -500,7 +522,15 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ArraysAndStrings/src/URLify.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="3" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -609,16 +639,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ArraysAndStrings/src/IsUnique.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="508">
-          <caret line="32" column="21" lean-forward="false" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ArraysAndStrings/tests/CheckPermutationTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
@@ -627,10 +647,76 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ArraysAndStrings/tests/URLifyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArraysAndStrings/src/URLify.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="27" column="20" lean-forward="false" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ArraysAndStrings/src/CheckPermutation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="32" column="9" lean-forward="false" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+        <state relative-caret-position="65">
+          <caret line="26" column="20" lean-forward="false" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArraysAndStrings/tests/PalindromePermutationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="2237" column="18" lean-forward="false" selection-start-line="2237" selection-start-column="18" selection-end-line="2237" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArraysAndStrings/src/PalindromePermutation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="10" column="40" lean-forward="false" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArraysAndStrings/src/IsUnique.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="34" column="16" lean-forward="true" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArraysAndStrings/src/OneAway.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="25" lean-forward="false" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArraysAndStrings/tests/OneAwayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="17" column="50" lean-forward="false" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
           <folding />
         </state>
       </provider>
