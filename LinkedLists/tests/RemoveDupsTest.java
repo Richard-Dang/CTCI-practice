@@ -5,8 +5,8 @@ import static org.junit.jupiter.api.Assertions.*;
 class RemoveDupsTest {
     int[] original = {2,9,5,7,5,3,9,5,1};
     int[] expected = {2,9,5,7,3,1};
-    RemoveDups r = new RemoveDups();
     LinkedListHelper helper = new LinkedListHelper();
+    RemoveDups r = new RemoveDups();
 
     @Test
     void removeDups() {

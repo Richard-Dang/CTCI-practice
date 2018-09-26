@@ -13,6 +13,7 @@ public class LinkedListHelper {
     }
 
     public boolean equals(LinkedListNode n1, LinkedListNode n2) {
+        if(n1 == null | n2 == null) return false;
         while(n1.next != null && n2.next != null){
             if(n1.data != n2.data){
                 return false;
